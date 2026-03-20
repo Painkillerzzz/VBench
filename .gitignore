@@ -194,6 +194,7 @@ VBench-2.0/vbench2/third_party/ViTDetector/test_results.json
 VBench-2.0/vbench2/third_party/ViTDetector/log_rank0.txt
 VBench-2.0/scripts/temp.py
 
+test_videos/*
 
 # documentations
 README-pypi.md

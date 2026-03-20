@@ -385,7 +385,7 @@ def get_prompt_from_filename(path: str):
 
 def save_json(data, path, indent=4):
     with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=indent)
+        json.dump(data, f, indent=indent, ensure_ascii=False)
 
 def load_json(path):
     """

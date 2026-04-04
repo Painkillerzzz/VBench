@@ -198,3 +198,8 @@ test_videos/*
 
 # documentations
 README-pypi.md
+
+# Mushroom eval - data & secrets
+mushroom_data/
+apikey_gemini
+deep-research-report.md
